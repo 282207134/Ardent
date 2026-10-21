@@ -1,0 +1,365 @@
+{
+  "document": "Finess App UI_v1",
+  "page": {
+    "id": "0:1",
+    "name": "xd page"
+  },
+  "source": "https://pixso.cn/app/design/-t9CNAeHncECmks--YheKg",
+  "captured": "2026-10-21",
+  "frames": [
+    {
+      "id": "0:5",
+      "name": "Instro 1",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_5.png"
+    },
+    {
+      "id": "0:37",
+      "name": "Instro 2",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_37.png"
+    },
+    {
+      "id": "0:69",
+      "name": "Instro 3",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_69.png"
+    },
+    {
+      "id": "0:104",
+      "name": "sign in",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_104.png"
+    },
+    {
+      "id": "0:154",
+      "name": "sign in v2",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_154.png"
+    },
+    {
+      "id": "0:197",
+      "name": "signup",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_197.png"
+    },
+    {
+      "id": "0:249",
+      "name": "signup v2",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_249.png"
+    },
+    {
+      "id": "0:295",
+      "name": "forgot password",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_295.png"
+    },
+    {
+      "id": "0:329",
+      "name": "forgot password v2",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_329.png"
+    },
+    {
+      "id": "0:434",
+      "name": "profile details 1",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_434.png"
+    },
+    {
+      "id": "0:477",
+      "name": "profile details 2",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_477.png"
+    },
+    {
+      "id": "0:519",
+      "name": "profile details 3",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_519.png"
+    },
+    {
+      "id": "0:629",
+      "name": "profile details 4",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_629.png"
+    },
+    {
+      "id": "0:765",
+      "name": "home expend",
+      "width": 375,
+      "height": 1773,
+      "file": "reference/0_765.png"
+    },
+    {
+      "id": "0:952",
+      "name": "home",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_952.png"
+    },
+    {
+      "id": "0:1115",
+      "name": "workout",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_1115.png"
+    },
+    {
+      "id": "0:1187",
+      "name": "all workout",
+      "width": 375,
+      "height": 854,
+      "file": "reference/0_1187.png"
+    },
+    {
+      "id": "0:1317",
+      "name": "workout tips expend",
+      "width": 375,
+      "height": 1166,
+      "file": "reference/0_1317.png"
+    },
+    {
+      "id": "0:1441",
+      "name": "play screen",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_1441.png"
+    },
+    {
+      "id": "0:1480",
+      "name": "workout tips ",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_1480.png"
+    },
+    {
+      "id": "0:1540",
+      "name": "recipy",
+      "width": 375,
+      "height": 1177,
+      "file": "reference/0_1540.png"
+    },
+    {
+      "id": "0:1656",
+      "name": "meals",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_1656.png"
+    },
+    {
+      "id": "0:1743",
+      "name": "meal expend",
+      "width": 375,
+      "height": 1525,
+      "file": "reference/0_1743.png"
+    },
+    {
+      "id": "0:1858",
+      "name": "Track",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_1858.png"
+    },
+    {
+      "id": "0:1982",
+      "name": "meal",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_1982.png"
+    },
+    {
+      "id": "0:2079",
+      "name": "meal play screen",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_2079.png"
+    },
+    {
+      "id": "0:2120",
+      "name": "Profile target",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_2120.png"
+    },
+    {
+      "id": "0:2302",
+      "name": "Profile photos",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_2302.png"
+    },
+    {
+      "id": "0:2407",
+      "name": "Profile favorite",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_2407.png"
+    },
+    {
+      "id": "0:2545",
+      "name": "Setting",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_2545.png"
+    },
+    {
+      "id": "0:2627",
+      "name": "edit profile",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_2627.png"
+    },
+    {
+      "id": "0:2691",
+      "name": "verification",
+      "width": 375,
+      "height": 812,
+      "file": "reference/0_2691.png"
+    }
+  ],
+  "assets": [
+    {
+      "id": "0:6",
+      "file": "assets/images/intro_1.webp"
+    },
+    {
+      "id": "0:38",
+      "file": "assets/images/intro_2.webp"
+    },
+    {
+      "id": "0:70",
+      "file": "assets/images/intro_3.webp"
+    },
+    {
+      "id": "0:121",
+      "file": "assets/images/auth.webp"
+    },
+    {
+      "id": "0:780",
+      "file": "assets/images/lower_body.webp"
+    },
+    {
+      "id": "0:905",
+      "file": "assets/images/easy_start.webp"
+    },
+    {
+      "id": "0:897",
+      "file": "assets/images/intense.webp"
+    },
+    {
+      "id": "0:844",
+      "file": "assets/images/strength.webp"
+    },
+    {
+      "id": "0:884",
+      "file": "assets/images/core.webp"
+    },
+    {
+      "id": "0:1168",
+      "file": "assets/images/frog.webp"
+    },
+    {
+      "id": "0:1175",
+      "file": "assets/images/kick.webp"
+    },
+    {
+      "id": "0:1182",
+      "file": "assets/images/sumo.webp"
+    },
+    {
+      "id": "0:1453",
+      "file": "assets/images/pushup.webp"
+    },
+    {
+      "id": "0:1236",
+      "file": "assets/images/dumbbell.webp"
+    },
+    {
+      "id": "0:1261",
+      "file": "assets/images/barre.webp"
+    },
+    {
+      "id": "0:1272",
+      "file": "assets/images/abs.webp"
+    },
+    {
+      "id": "0:1282",
+      "file": "assets/images/chest.webp"
+    },
+    {
+      "id": "0:1336",
+      "file": "assets/images/article.webp"
+    },
+    {
+      "id": "0:1426",
+      "file": "assets/images/clean_press.webp"
+    },
+    {
+      "id": "0:1595",
+      "file": "assets/images/salad.webp"
+    },
+    {
+      "id": "0:1563",
+      "file": "assets/images/chicken.webp"
+    },
+    {
+      "id": "0:1572",
+      "file": "assets/images/egg.webp"
+    },
+    {
+      "id": "0:1579",
+      "file": "assets/images/meal_3.webp"
+    },
+    {
+      "id": "0:2254",
+      "file": "assets/images/avatar.webp"
+    },
+    {
+      "id": "0:2326",
+      "file": "assets/images/photo_1.webp"
+    },
+    {
+      "id": "0:2328",
+      "file": "assets/images/photo_2.webp"
+    },
+    {
+      "id": "0:2330",
+      "file": "assets/images/photo_3.webp"
+    },
+    {
+      "id": "0:2332",
+      "file": "assets/images/photo_4.webp"
+    },
+    {
+      "id": "0:2334",
+      "file": "assets/images/photo_5.webp"
+    },
+    {
+      "id": "0:2336",
+      "file": "assets/images/photo_6.webp"
+    },
+    {
+      "id": "0:1132",
+      "file": "assets/images/workout_detail.webp"
+    },
+    {
+      "id": "0:855",
+      "file": "assets/images/today_workout.webp"
+    }
+  ]
+}

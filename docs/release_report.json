@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-21",
+  "build": "release",
+  "device": "emulator-5554",
+  "result": "passed",
+  "checks": [
+    "startup storage",
+    "onboarding",
+    "cold session restore",
+    "meal log",
+    "cold meal restore"
+  ]
+}
